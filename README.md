@@ -26,7 +26,7 @@ Seria muito **LEGAL** se:
 * Mostra-se muita habilidade na **criação do layout**.
 * Usa-se **[docker](https://docs.docker.com/) e [docker-compose](https://docs.docker.com/compose/)** para disponibilizar o ambiente.
 * Usa-se **nossa stack** ([Node](https://nodejs.org/en/), [Express](https://expressjs.com/pt-br/), [Vue](https://vuejs.org/), [Typescript](https://www.typescriptlang.org/)).
-* Disponibilisa-se o **ambiente em um serviço** como (Heroku, AWS, GCP, etc).
+* Disponibilizar o **ambiente em um serviço** como (Heroku, AWS, GCP, etc).
 
 
 Oque **VAMOS** avaliar:
