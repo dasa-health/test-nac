@@ -4,14 +4,17 @@ Seu **objectivo** é:
 
 * Consumir a [API do Github](https://docs.github.com/en/free-pro-team@latest/developers/overview/about-githubs-apis).
 * Buscar repositórios de um usúario por **username** exibindo o numero de **stars** de cada repositioro.
-* Criar um backend simples para adicionar e remover usuarios favoritados em um **arquivo**.
+* Criar um **backend simples** em **Node** para salvar repositórios favoritados.
+* Salvar repositórios favoritados em um **arquivo**.
 * Documentar aplicação da forma que prefirir.
 
 Para realizar este teste você **PODE**:
 
 * Usar sua stack prefirida.
+* Criar o backend usando SSR se preferir.
 * Usar libraries e outras ferramentas de sua preferencia.
-
+* Fazer monorepo (backend e frontend no mesmo repo) ou separado.
+* Salvar repositorios em qualquer formato de arquivo (json, yaml, csv, txt, etc...)
 
 Você **NÃO** pode:
 
@@ -22,7 +25,7 @@ Você **NÃO** pode:
 Seria muito **LEGAL** se:
 
 * Escreve-se testes **e2e**.
-* Adicionar em um **CI / CD** de sua preferencia.
+* Adiciona-se em um **CI / CD** de sua preferencia.
 * Mostra-se muita habilidade na **criação do layout**.
 * Usa-se **[docker](https://docs.docker.com/) e [docker-compose](https://docs.docker.com/compose/)** para disponibilizar o ambiente.
 * Usa-se **nossa stack** ([Node](https://nodejs.org/en/), [Express](https://expressjs.com/pt-br/), [Vue](https://vuejs.org/), [Typescript](https://www.typescriptlang.org/)).
