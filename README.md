@@ -27,6 +27,7 @@ Seria muito **LEGAL** se:
 * Escrevesse testes **e2e**.
 * Adicionasse em um **CI/CD** de sua preferência.
 * Mostrasse muita habilidade na **criação do layout**.
+* **Documentasse suas escolhas** que sejam importantes para avaliarmos.
 * Usasse **[docker](https://docs.docker.com/) e [docker-compose](https://docs.docker.com/compose/)** para disponibilizar o ambiente.
 * Usasse **nossa stack** ([Node](https://nodejs.org/en/), [Express](https://expressjs.com/pt-br/), [Vue](https://vuejs.org/), [Typescript](https://www.typescriptlang.org/)).
 * Disponibilizasse em um **ambiente de serviço** como (Heroku, AWS, GCP, etc).
