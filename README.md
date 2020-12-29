@@ -26,6 +26,7 @@ Seria muito **LEGAL** se:
 
 * Escrevesse testes **e2e**.
 * Sua aplicação abrisse **Mobile** sem quebra.
+* Criasse uma **doc** explicando suas descisões.
 * Adicionasse em um **CI/CD** de sua preferência.
 * Mostrasse muita habilidade na **criação do layout**.
 * **Documentasse suas escolhas** que sejam importantes para avaliarmos.
